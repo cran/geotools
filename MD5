@@ -1,0 +1,10 @@
+c0871e13f584dab975098f27f8ef5b0b *DESCRIPTION
+cf2bf01b59d0d054b3f76a1042b5c4ff *NAMESPACE
+2e5e54a30bd32ef473f4dcfa7f7ee4f4 *R/geo.R
+789a2b3d9999d6f1a654e6a4a308c394 *R/zzz.R
+d950e15c07013dbcfe17cf5665e45c58 *data/datalist
+23ee7e6c5936023c301eb54f903dd2b4 *data/fr_geo_deg.tab.gz
+bfda4e72fbf98e7001a318b1fc958552 *data/fr_geo_rad.tab.gz
+f91ba638be3658605fcba5b22a885e82 *man/fr_code.Rd
+968a98262cc0d6caac9afc4780f635cd *man/geotools.Rd
+44dbd176e964500348898f3bda211967 *man/zipcode.Rd
